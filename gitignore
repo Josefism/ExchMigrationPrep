@@ -1,0 +1,7 @@
+## There's not much in this project, but I like keeping a .gitignore handy just in case
+
+# Cleanup Reports
+[Cc]leanup/
+
+# Any old files (named variants of .old)
+*.[Oo][Ll][Dd]
